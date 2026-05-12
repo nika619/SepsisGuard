@@ -1,0 +1,78 @@
+SEPSISGUARD SYNTHETIC PATIENT — FOR DEMO USE ONLY. NOT REAL PATIENT DATA.
+
+Patient: James Whitfield | Age: 54 | Sex: Male | MRN: SG-DEMO-003
+Admission: Pre-operative Assessment — Elective Knee Replacement | Unit: Pre-op
+
+=======================================================================
+ENCOUNTER NOTE — 2026-05-07 08:00
+Pre-operative Nursing Assessment
+=======================================================================
+
+Chief Complaint:
+No acute complaints. Patient presents for scheduled pre-operative
+assessment ahead of elective right total knee replacement tomorrow.
+
+History of Present Illness:
+James Whitfield is a 54-year-old male in good general health presenting
+for pre-operative clearance for elective right total knee replacement
+scheduled for tomorrow morning. Patient has had progressive right knee
+osteoarthritis for 3 years. He has tried physical therapy and cortisone
+injections without adequate relief. No recent illness, no fever, no
+signs of infection anywhere. Patient reports feeling "completely normal,
+just the usual knee pain."
+
+Vital Signs — Stable:
+  08:00 — HR 72 bpm, Temp 36.8C, RR 14, BP 126/80, SpO2 99% on room air
+
+All vitals within normal limits. No trending concerns.
+
+Physical Assessment:
+Patient alert, awake, oriented x4 (person, place, time, situation).
+Skin warm and dry, normal color, no diaphoresis.
+Lungs clear to auscultation bilaterally.
+Heart rate regular, no murmurs.
+Abdomen soft, non-tender.
+Right knee with expected osteoarthritic changes — swollen but no warmth,
+no erythema, no signs of septic joint.
+No peripheral edema. Good capillary refill bilaterally.
+
+Pre-operative Labs (collected this morning):
+WBC 7.2 (normal)
+Hemoglobin 14.8 (normal)
+Platelets 224 (normal)
+BMP: all values within normal limits
+Creatinine: 0.9 (normal)
+Blood glucose: 94 (normal)
+Urinalysis: clear, no bacteria, no WBC, no nitrites
+Coagulation: PT/INR within normal limits
+ECG: normal sinus rhythm, no acute changes
+
+Medications:
+- Lisinopril 10mg daily (held morning of surgery per anesthesia protocol)
+- Atorvastatin 20mg daily
+- Ibuprofen 400mg PRN knee pain (held 5 days pre-op)
+- No antibiotics
+- No immunosuppressants
+
+Social History:
+Works as high school principal. Married with two children. Non-smoker.
+Occasional alcohol (1-2 drinks per week). Exercises regularly — cycling
+and swimming. BMI 26. No diabetes. No significant cardiac history.
+
+Allergies:
+No known drug allergies. No latex allergy.
+
+Assessment and Plan:
+Patient in excellent pre-operative health. No signs of active infection,
+systemic illness, or immune compromise. All labs within normal limits.
+Vitals stable and reassuring. Patient is low risk for surgical
+complications. Cleared for tomorrow's elective procedure.
+
+Plan:
+- Cleared for surgery — proceed as scheduled
+- NPO after midnight
+- Pre-operative antibiotics (cefazolin) to be administered 30 minutes
+  before incision per surgical protocol
+- DVT prophylaxis to begin post-operatively
+- Standard post-operative monitoring protocol
+- Patient education completed — patient verbalizes understanding

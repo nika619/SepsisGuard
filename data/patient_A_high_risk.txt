@@ -1,0 +1,72 @@
+SEPSISGUARD SYNTHETIC PATIENT — FOR DEMO USE ONLY. NOT REAL PATIENT DATA.
+
+Patient: Margaret Chen | Age: 67 | Sex: Female | MRN: SG-DEMO-001
+Admission: Post-operative Hip Replacement | Unit: Surgical Step-Down
+
+=======================================================================
+ENCOUNTER NOTE — 2026-05-07 03:15
+Nursing Assessment — Night Shift
+=======================================================================
+
+Chief Complaint:
+Patient reports feeling "feverish and not right since midnight." States she
+has never felt this way after her previous surgeries.
+
+History of Present Illness:
+Margaret Chen is a 67-year-old female, post-operative day 2 following
+right total hip replacement. Surgery was uncomplicated per operative report.
+Patient was ambulatory with PT yesterday morning. Overnight course has been
+notable for increasing heart rate, low-grade fever, and patient-reported
+malaise. Patient's daughter at bedside states "mom seemed confused when I
+called her at 2am, she didn't know what day it was."
+
+Vital Signs — Trending (CRITICAL TRAJECTORY):
+  22:00 — HR 88 bpm, Temp 37.9C, RR 18, BP 118/76, SpO2 97%
+  00:00 — HR 94 bpm, Temp 38.4C, RR 20, BP 112/72, SpO2 96%
+  02:00 — HR 101 bpm, Temp 38.9C, RR 22, BP 108/68, SpO2 95%
+  03:00 — HR 104 bpm, Temp 39.1C, RR 23, BP 104/66, SpO2 94%
+
+Nursing Observation — 03:15:
+Patient appeared diaphoretic and mildly confused when assessed at 0300.
+Unable to correctly state current date or day of week. Skin warm and
+flushed. Patient shivering intermittently. Urine output this shift:
+180mL over 6 hours (significantly decreased from 420mL previous shift).
+Foley catheter patent, urine appears darker than yesterday — concentrated,
+mild odor noted.
+
+Wound Assessment:
+Surgical incision right hip: dressing changed 1800. Wound edges with
+mild erythema extending approximately 1cm beyond incision margins.
+Small amount of serosanguineous drainage noted, slightly increased from
+prior dressing change. No obvious purulence but warmth to palpation
+around wound site.
+
+Medications:
+- Cefazolin IV 1g q8h (last dose 00:00)
+- Enoxaparin 40mg SQ daily (DVT prophylaxis)
+- Oxycodone 5mg PO q4h PRN pain (patient declining, states "too nauseated")
+- IV NS at 75mL/hr
+
+Nausea and decreased appetite noted. Patient declined dinner tray entirely.
+Patient states: "I just feel really off. I don't know what's wrong with me
+but something doesn't feel right."
+
+Social History:
+Patient lives with husband. Non-smoker. No alcohol. Type 2 diabetes
+(diet-controlled). Hypertension on lisinopril (held post-op per protocol).
+
+Allergies:
+Penicillin (rash) — documented in chart
+
+Assessment and Plan:
+Patient presenting with concerning trajectory post hip replacement:
+rising heart rate, increasing fever, decreasing urine output, wound
+erythema, and altered orientation. Clinical picture warrants immediate
+physician notification and sepsis evaluation.
+
+Plan:
+- Notify attending surgeon STAT
+- Obtain blood cultures x2 before any antibiotic changes
+- Check serum lactate, CBC with differential, BMP, urinalysis with culture
+- Consider sepsis protocol activation
+- Increase monitoring to q1h vitals

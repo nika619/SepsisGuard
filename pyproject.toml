@@ -1,0 +1,28 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "sepsisguard"
+version = "1.0.0"
+description = "SepsisGuard AI — MCP Server for Early Sepsis Detection"
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [
+    { name = "SepsisGuard AI Team" }
+]
+dependencies = [
+    "mcp[cli]",
+    "google-genai",
+    "httpx",
+    "python-dotenv",
+    "uvicorn[standard]",
+    "starlette",
+    "pyjwt"
+]
+
+[project.scripts]
+sepsisguard = "sepsisguard.main:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]

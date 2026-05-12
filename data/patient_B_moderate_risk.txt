@@ -1,0 +1,73 @@
+SEPSISGUARD SYNTHETIC PATIENT — FOR DEMO USE ONLY. NOT REAL PATIENT DATA.
+
+Patient: Robert Okafor | Age: 71 | Sex: Male | MRN: SG-DEMO-002
+Admission: Community-Acquired Pneumonia | Unit: Medical Floor
+
+=======================================================================
+ENCOUNTER NOTE — 2026-05-07 09:30
+Physician Progress Note — Day 2 Admission
+=======================================================================
+
+Chief Complaint:
+Persistent cough, shortness of breath, and fatigue. Patient states
+he is "a little better than yesterday but still not great."
+
+History of Present Illness:
+Robert Okafor is a 71-year-old male admitted 2 days ago with
+community-acquired pneumonia confirmed on chest X-ray (right lower
+lobe consolidation). Started on IV ceftriaxone and azithromycin
+approximately 36 hours ago. Clinical response has been slow.
+Patient has type 2 diabetes (insulin-dependent) and COPD.
+
+Nursing note from overnight: "Patient seemed a bit more confused
+this morning during morning assessment — kept asking where he was.
+Oriented to person but not to place or date. This is new from yesterday
+when he was fully oriented."
+
+Vital Signs — Current:
+  06:00 — HR 91 bpm, Temp 37.8C, RR 19, BP 122/78, SpO2 93% on 2L NC
+  09:00 — HR 88 bpm, Temp 38.1C, RR 18, BP 118/74, SpO2 94% on 2L NC
+
+Previous 24h vitals range: HR 86-98, Temp 37.6-38.4, RR 17-21
+
+Respiratory Assessment:
+Breath sounds diminished right lower lobe with dullness to percussion.
+Productive cough — moderate amounts of yellowish-green sputum.
+Increased work of breathing noted compared to admission, using accessory
+muscles intermittently.
+
+Labs from this morning:
+WBC 14.2 (elevated, was 11.8 on admission — trending up)
+Neutrophils 84% (bandemia pattern)
+Procalcitonin: 2.1 ng/mL (elevated — ordered pending yesterday)
+Creatinine: 1.4 (baseline 1.0 — mild acute kidney injury developing)
+Blood glucose: 218 (poorly controlled)
+
+Medications:
+- Ceftriaxone IV 1g daily (day 2)
+- Azithromycin IV 500mg daily (day 2)
+- Insulin sliding scale (coverage inadequate, glucose still elevated)
+- Albuterol nebulizer q4h
+- Supplemental oxygen 2L nasal cannula
+
+Social History:
+Retired teacher. Lives alone. Moderate smoker 20 pack-years, quit 5 years
+ago. COPD diagnosed 3 years ago. Type 2 DM insulin-dependent x 8 years.
+
+Allergies:
+No known drug allergies.
+
+Assessment and Plan:
+Patient with pneumonia showing incomplete antibiotic response at 36 hours.
+Rising WBC, new mild AKI, elevated procalcitonin, and new mild confusion
+raise concern for progression toward sepsis despite current antibiotics.
+Clinical picture requires close monitoring and consideration of antibiotic
+escalation.
+
+Plan:
+- Continue current antibiotics but reassess at 24 hours
+- Repeat blood cultures if temperature spikes above 38.5C
+- Renal function monitoring — BMP q12h
+- Glucose management — adjust insulin protocol
+- Attending to reassess patient in 2 hours
+- If confusion worsens or vitals deteriorate, escalate to sepsis protocol

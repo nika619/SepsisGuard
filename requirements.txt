@@ -1,0 +1,8 @@
+mcp[cli]
+google-genai
+httpx
+python-dotenv
+uvicorn[standard]
+starlette
+pyjwt
+-e .
