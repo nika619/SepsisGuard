@@ -125,3 +125,8 @@ SepsisGuard AI is a clinical decision support tool. It augments clinician judgme
 
 *"Sepsis doesn't wait for rules to trigger. Neither should we."*
 **SepsisGuard AI — because every hour matters.**
+
+
+---
+
+Built by [Mayank Tiwari](https://github.com/nika619) · [Hire me on Contra](https://contra.com/mayank_tiwari_a4vkcjsh)
